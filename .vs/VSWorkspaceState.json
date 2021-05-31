@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\UWP",
-    "\\UWP\\UWP"
+    "\\UWP\\UWP",
+    "\\UWP\\UWP\\Pages"
   ],
   "SelectedNode": "\\UWP\\UWP.sln",
   "PreviewInSolutionExplorer": false

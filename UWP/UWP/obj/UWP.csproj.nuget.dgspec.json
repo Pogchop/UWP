@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hello\\source\\repos\\UWP\\UWP\\UWP.csproj": {}
+    "C:\\Users\\Hello\\source\\repos\\UWP-Sem3\\UWP\\UWP\\UWP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hello\\source\\repos\\UWP\\UWP\\UWP.csproj": {
+    "C:\\Users\\Hello\\source\\repos\\UWP-Sem3\\UWP\\UWP\\UWP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hello\\source\\repos\\UWP\\UWP\\UWP.csproj",
+        "projectUniqueName": "C:\\Users\\Hello\\source\\repos\\UWP-Sem3\\UWP\\UWP\\UWP.csproj",
         "projectName": "UWP",
-        "projectPath": "C:\\Users\\Hello\\source\\repos\\UWP\\UWP\\UWP.csproj",
+        "projectPath": "C:\\Users\\Hello\\source\\repos\\UWP-Sem3\\UWP\\UWP\\UWP.csproj",
         "packagesPath": "C:\\Users\\Hello\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hello\\source\\repos\\UWP\\UWP\\obj\\",
+        "outputPath": "C:\\Users\\Hello\\source\\repos\\UWP-Sem3\\UWP\\UWP\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
